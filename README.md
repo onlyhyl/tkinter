@@ -1,0 +1,2 @@
+# tkinter
+使用Python的GUI tkinter模块实现交换生管理系统中的管理员部分
